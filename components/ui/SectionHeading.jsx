@@ -1,0 +1,16 @@
+import { cn } from "@/lib/utils";
+
+export default function SectionHeading({
+  eyebrow,
+  title,
+  description,
+  align = "left",
+}) {
+  return (
+    <div className={cn("section-heading", align === "center" && "section-heading--center")}>
+      {eyebrow ? <span className="eyebrow">{eyebrow}</span> : null}
+      <h2>{title}</h2>
+      {description ? <p>{description}</p> : null}
+    </div>
+  );
+}

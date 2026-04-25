@@ -1,0 +1,9 @@
+<svg width="240" height="120" viewBox="0 0 240 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="120" rx="24" fill="white"/>
+  <text x="67" y="74" fill="#2563EB" font-family="Arial, sans-serif" font-size="48" font-weight="800">IBM</text>
+  <path d="M63 37H177" stroke="#2563EB" stroke-width="4"/>
+  <path d="M63 49H177" stroke="#2563EB" stroke-width="4"/>
+  <path d="M63 61H177" stroke="#2563EB" stroke-width="4"/>
+  <path d="M63 73H177" stroke="#2563EB" stroke-width="4"/>
+  <path d="M63 85H177" stroke="#2563EB" stroke-width="4"/>
+</svg>
